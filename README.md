@@ -8,7 +8,7 @@ All libraries used can be pip installed. In command line, one simply has to ente
 “pip3 install (enter library here)”
 
 For this program, the following are needed:
-- datetime
+- datetimehttps://tinyurl.com/payoffproj
 - matplotlib
 - pandas
 - beautifulsoup4
@@ -18,3 +18,5 @@ For this program, the following are needed:
 - multiprocessing
 - numpy
 - csv
+
+Youtube Link: https://tinyurl.com/payoffproj
