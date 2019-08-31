@@ -5,10 +5,10 @@ PayOff is a stock price simulation game. The user enters the program in story mo
 
 All libraries used can be pip installed. In command line, one simply has to enter:
 
-“pip3 install (enter library here)”
+“pip3 install <library name here>”
 
 For this program, the following are needed:
-- datetimehttps://tinyurl.com/payoffproj
+- datetime
 - matplotlib
 - pandas
 - beautifulsoup4
